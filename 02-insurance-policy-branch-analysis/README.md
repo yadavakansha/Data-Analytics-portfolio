@@ -17,7 +17,7 @@ Data covers 5,000 policies across customer, policy, claims, payment and renewal 
 **Questions analysed:** policies and premium by policy type, policy status, claim status and reasons, payment status, renewal status, and agent performance.
 
 **Key findings**
-- **Payments:** about half fail: 2,484 failed vs. 2,516 successful (49.7% failed).
+- **Payments:** about half fail: 1,978 failed vs. 1,957 successful (~ 50% failed).
 - **Policy status:** policies are split almost evenly between Active (1,682), Terminated (1,678) and Lapsed (1,640).
 - **Renewals:** only 1,668 of 5,000 policies were renewed; 1,685 were not renewed and 1,647 are pending.
 - **Claims:** 1,712 approved, 1,650 pending and 1,638 denied.
